@@ -1,6 +1,7 @@
 Example usage
 
 var appName = "Chegg"
+
 var appc2 = [
   2, 
   1736983811039, 
