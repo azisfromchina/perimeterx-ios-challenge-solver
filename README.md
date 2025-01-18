@@ -17,4 +17,5 @@ var chall_2 = sub_30dc4(sub_30dc4(appc2[5], appc2[6], appc2[3], appc2[8], appNam
 
 const hexValue = "0x6950686f"; // translates to iPho if the device is iPhone, if the device is iPad it will be 0x69506164
 const A = parseInt(hexValue, 16);
+
 var chall_solved = A ^ chall_2;
